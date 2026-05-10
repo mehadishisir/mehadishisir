@@ -39,14 +39,7 @@ I enjoy solving real-world problems through clean code and continuous learning.
 
 <div align="center" hide>
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| [🌿 Eco-Adventure Experiences](https://github.com/mehadishisir/Eco-Adventure-Experiences) | Web app for exploring and booking eco-adventure experiences | React, Firebase |
-| [⚡ Byte-Blaze](https://github.com/mehadishisir/Byte-Blaze) | Dynamic web application with modern UI and real-time features | React, Firebase |
-
-</div>
 
 ---
 
