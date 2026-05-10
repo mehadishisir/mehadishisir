@@ -1,106 +1,81 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mehadi Hassan Shisir
+=============================================================================================================================================
 
-# Mehadi Shisir
+### Full-Stack Developer | React.js • TypeScript • Node.js
 
-**`Physics Student → Full-Stack Developer`**
+Full-Stack Developer focused on building responsive and scalable web applications. I enjoy solving real-world problems through clean code and continuous learning.
 
-*Consistency, code, and late-night debugging.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehadishisir/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehadishisir)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 3rd year **Physics student** from **Dhaka, Bangladesh**
-- 💻 Self-taught frontend dev, now leveling up to **Full-Stack**
-- 🚀 Currently mastering **TypeScript, Next.js, Node.js & PostgreSQL**
-- 🎯 Goal: Land a **Junior Developer role** — one commit at a time
-- ⚡ I believe in learning by building
+- 🌍 Based in **Dhaka, Bangladesh**
+- 📬 Reach me at [mehadishisir@gmail.com](mailto:mehadishisir@gmail.com)
+- 🚀 Currently leveling up with **Node.js, Express & PostgreSQL**
+- 🤝 Open to collaborate on **Full-Stack & MERN projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
+---
 
-**Backend & Database**
+## 🚀 Featured Projects
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🌿 Eco-Adventure Experiences](https://github.com/mehadishisir/Eco-Adventure-Experiences) | Web app for exploring and booking eco-adventure experiences | React, Firebase |
+| [⚡ Byte-Blaze](https://github.com/mehadishisir/Byte-Blaze) | Dynamic web application with modern UI and real-time features | React, Firebase |
 
-**Tools & Others**
+---
 
-[![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,redux)](https://skillicons.dev)
+## 🌐 Socials
+
+<p align="left">
+<a href="https://www.github.com/mehadishisir" target="_blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/mehadishisir/" target="_blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+</picture>
+</a>
+<a href="https://www.facebook.com/mehadishiisir" target="_blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+</picture>
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<a href="http://www.github.com/mehadishisir"><img src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="mehadishisir's GitHub stats" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<a href="http://www.github.com/mehadishisir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehadishisir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<a href="https://github.com/mehadishisir"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadishisir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 ---
 
-## 📚 Currently Learning
-
-```
-Programming Hero — Next Level Web Development
-├── ✅ TypeScript (Advanced Types, Generics)
-├── 🔄 Next.js
-├── 🔄 Redux
-├── 🔄 Node.js & Express
-├── 🔄 PostgreSQL & Prisma
-├── 🔄 Docker
-└── 🔄 AI Integration
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehadishisir/)
-
-</div>
-
----
-
-<div align="center">
-
-*"Every expert was once a beginner. Keep pushing."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mehadishisir&color=0891b2&style=flat-square)
-
-</div>
-## Hi there 👋
-
-<!--
-**mehadishisir/mehadishisir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mehadishisir&color=0891b2&style=flat-square" alt="Profile Views" /></p>
