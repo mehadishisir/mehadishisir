@@ -37,7 +37,7 @@ I enjoy solving real-world problems through clean code and continuous learning.
 
 ---
 
-<div align="center">
+<div align="center" hide>
 
 ## 🚀 Featured Projects
 
