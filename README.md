@@ -48,9 +48,15 @@ I enjoy solving real-world problems through clean code and continuous learning.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadishisir&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages" height="165" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <br/>
