@@ -4,13 +4,15 @@
 
 ### Full-Stack Developer | React.js • TypeScript • Node.js
 
-Full-Stack Developer focused on building responsive and scalable web applications.<br/>
+Full-Stack Developer focused on building responsive and scalable web applications.  
 I enjoy solving real-world problems through clean code and continuous learning.
 
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📬 [mehadishisir@gmail.com](mailto:mehadishisir@gmail.com)
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📬 mehadishisir@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehadishisir/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehadishisir)
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehadishiisir)
 
 </div>
@@ -21,25 +23,19 @@ I enjoy solving real-world problems through clean code and continuous learning.
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
 
-**Backend & Database**
+### Backend & Database
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres)](https://skillicons.dev)
 
-**Tools**
+### Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
 </div>
-
----
-
-<div align="center" hide>
-
-
 
 ---
 
@@ -61,7 +57,10 @@ I enjoy solving real-world problems through clean code and continuous learning.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+/>
 
 <br/><br/>
 
