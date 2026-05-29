@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Mehadi Hassan Shisir 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mehadi+Hassan+Shisir+👋;Full-Stack+Developer;React.js+•+TypeScript+•+Node.js;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 
-### Full-Stack Developer | React.js • TypeScript • Node.js
+---
 
-Full-Stack Developer focused on building responsive and scalable web applications.  
-I enjoy solving real-world problems through clean code and continuous learning.
+### 💻 Full-Stack Developer
 
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📬 mehadishisir@gmail.com
+Building responsive and scalable web applications with modern technologies.
+
+📍 Dhaka, Bangladesh  
+📬 mehadishisir@gmail.com
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehadishisir/)
 
@@ -21,19 +25,19 @@ I enjoy solving real-world problems through clean code and continuous learning.
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,git,github,vscode,figma&theme=dark" />
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
+</div>
 
-### Backend & Database
+---
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres)](https://skillicons.dev)
+<div align="center">
 
-### Tools
+## 📈 Contribution Graph
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -43,27 +47,31 @@ I enjoy solving real-world problems through clean code and continuous learning.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
-<br/>
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak" 
-/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehadishisir&color=0891b2&style=flat-square)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mehadishisir&color=0891b2&style=for-the-badge"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ Currently Learning
+
+```ts
+const me = {
+  code: ["JavaScript", "TypeScript"],
+  frontend: ["React", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "PostgreSQL"],
+  currentlyLearning: "Next.js & Advanced Backend",
+};
