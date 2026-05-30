@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mehadi+Hassan+Shisir+👋;Full-Stack+Developer;React.js+•+TypeScript+•+Node.js;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/240885247-41371a7b-3c1f-46cf-bf38-4f0f65f5f7b7.gif" width="700">
 
----
+# Hi 👋, I'm Mehadi Hassan Shisir
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+•+TypeScript+•+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
 
 ### 💻 Full-Stack Developer
 
@@ -13,21 +15,38 @@ Building responsive and scalable web applications with modern technologies.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehadishisir/)
+<a href="https://www.linkedin.com/in/mehadishisir/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehadishisir)
+<a href="https://github.com/mehadishisir">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehadishiisir)
+<a href="https://www.facebook.com/mehadishiisir">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+## 🚀 About Me
+
+- 🎓 Physics Honours Student
+- 💻 Full-Stack Web Developer
+- 🌱 Currently learning **Next.js, PostgreSQL & Advanced Backend**
+- 🔭 Building MERN Stack Projects
+- ⚡ Passionate about solving real-world problems through code
+- 🎯 Goal: Become a Software Engineer
+
+---
+
 <div align="center">
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -37,7 +56,7 @@ Building responsive and scalable web applications with modern technologies.
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -47,17 +66,13 @@ Building responsive and scalable web applications with modern technologies.
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mehadishisir&color=0891b2&style=for-the-badge"/>
 
 </div>
 
@@ -65,13 +80,18 @@ Building responsive and scalable web applications with modern technologies.
 
 <div align="center">
 
-### ⚡ Currently Learning
+## ⚡ Currently Learning
+
+</div>
 
 ```ts
 const me = {
-  code: ["JavaScript", "TypeScript"],
-  frontend: ["React", "Tailwind CSS"],
+  name: "Mehadi Hassan Shisir",
+  role: "Full-Stack Developer",
+  frontend: ["React.js", "TypeScript", "Tailwind CSS"],
   backend: ["Node.js", "Express.js"],
   database: ["MongoDB", "PostgreSQL"],
-  currentlyLearning: "Next.js & Advanced Backend",
+  tools: ["Git", "GitHub", "VS Code", "Figma"],
+  currentlyLearning: ["Next.js", "Advanced Backend"],
+  goal: "Software Engineer",
 };
