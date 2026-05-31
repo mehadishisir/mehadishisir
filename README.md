@@ -4,27 +4,27 @@
 
 # Hi 👋, I'm Mehadi Hassan Shisir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+•+TypeScript+•+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+•+TypeScript+•+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
 
 ### 💻 Full-Stack Developer
 
 Building responsive and scalable web applications with modern technologies.
 
-📍 Dhaka, Bangladesh  
-📬 mehadishisir@gmail.com
+📍 Gazipur, Bangladesh  
+📧 mehadishisir@gmail.com
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mehadishisir/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mehadishisir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/mehadishiisir">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
@@ -33,12 +33,28 @@ Building responsive and scalable web applications with modern technologies.
 
 ## 🚀 About Me
 
-- 🎓 Physics Honours Student
-- 💻 Full-Stack Web Developer
-- 🌱 Currently learning **Next.js, PostgreSQL & Advanced Backend**
+- 🎓 Physics Honours Student at National University
+- 💻 Passionate Full-Stack Web Developer
+- 🌱 Currently learning Next.js, PostgreSQL & Advanced Backend Development
 - 🔭 Building MERN Stack Projects
-- ⚡ Passionate about solving real-world problems through code
-- 🎯 Goal: Become a Software Engineer
+- ⚡ Love solving real-world problems through code
+- 🎯 Goal: Become a Professional Software Engineer
+
+---
+
+<div align="center">
+
+## 🔥 Current Activities
+
+💼 Building Full-Stack Projects
+
+📚 Learning Advanced Backend Development
+
+🚀 Exploring Next.js & PostgreSQL
+
+🌐 Improving Problem Solving Skills
+
+</div>
 
 ---
 
@@ -46,7 +62,7 @@ Building responsive and scalable web applications with modern technologies.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
@@ -56,7 +72,7 @@ Building responsive and scalable web applications with modern technologies.
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -80,18 +96,50 @@ Building responsive and scalable web applications with modern technologies.
 
 <div align="center">
 
-## ⚡ Currently Learning
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehadishisir&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
+
+---
+
+## ⚡ Currently Learning
 
 ```ts
 const me = {
   name: "Mehadi Hassan Shisir",
   role: "Full-Stack Developer",
-  frontend: ["React.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "PostgreSQL"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  currentlyLearning: ["Next.js", "Advanced Backend"],
-  goal: "Software Engineer",
+
+  frontend: [
+    "React.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js"
+  ],
+
+  database: [
+    "MongoDB",
+    "PostgreSQL"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma"
+  ],
+
+  currentlyLearning: [
+    "Next.js",
+    "Advanced Backend"
+  ],
+
+  location: "Gazipur, Bangladesh",
+
+  goal: "Software Engineer 🚀"
 };
