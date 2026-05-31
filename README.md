@@ -29,15 +29,13 @@ Building responsive and scalable web applications with modern technologies.
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-- 🎓 Physics Honours Student
-- 💻 Full-Stack Web Developer
-- 🌱 Currently learning Next.js, PostgreSQL & Advanced Backend
-- 🔭 Building MERN Stack Projects
-- ⚡ Passionate about clean code and problem solving
-- 🎯 Goal: Become a Professional Software Engineer
+Passionate Full-Stack Developer from Gazipur, Bangladesh 🇧🇩
 
+I enjoy transforming ideas into real-world web applications using modern technologies like React, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL.
+
+Currently focused on sharpening my backend development skills and building scalable, production-ready applications.
 ---
 
 <div align="center">
