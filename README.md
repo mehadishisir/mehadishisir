@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mehadi%20Hassan%20Shisir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+•+TypeScript+•+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+%F0%9F%9A%80" />
 
 ### 💻 Full-Stack Developer
 
