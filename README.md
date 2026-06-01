@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
 
 <br/>
 
@@ -69,3 +69,27 @@ Currently focused on improving backend development skills and creating scalable,
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mehadishisir/mehadishisir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+```ts
+const mehadi = {
+  location: "Gazipur, Bangladesh",
+  role: "Full-Stack Developer",
+  frontend: ["React.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "PostgreSQL"],
+  learning: ["Next.js", "Backend Architecture"],
+  goal: "Software Engineer 🚀"
+};
+```
