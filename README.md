@@ -74,11 +74,9 @@ Currently focused on improving backend development skills and creating scalable,
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mehadishisir/mehadishisir/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center">
+  <img src="https://github.com/mehadishisir/mehadishisir/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
