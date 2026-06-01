@@ -76,7 +76,7 @@ Currently focused on improving backend development skills and creating scalable,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mehadishisir/mehadishisir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/mehadishisir/mehadishisir/output/github-contribution-grid-snake.svg" />
 
 </div>
 
