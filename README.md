@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mehadi%20Hassan%20Shisir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<div align="center">
+
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png?raw=true" width="100%"/>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
 
