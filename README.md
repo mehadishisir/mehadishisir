@@ -6,9 +6,7 @@
 
 ### Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
 
 <br/>
 
@@ -52,13 +50,13 @@ Currently focused on improving backend development skills and creating scalable,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadishisir&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mehadishisir&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -69,15 +67,5 @@ Currently focused on improving backend development skills and creating scalable,
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
