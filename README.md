@@ -1,52 +1,73 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="500"/>
+# Hi 👋 I'm Mehadi Hasan Shisir
 
-# Mehadi Hassan Shisir
+### Full Stack Developer • Next.js • Node.js • Prisma • PostgreSQL
 
-### Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Full+Stack+Applications;Next.js+%7C+TypeScript+%7C+Node.js;Prisma+%7C+PostgreSQL+%7C+Express.js;Always+Learning+Something+New+🚀" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mehadishisir">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mehadishisir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/mehadishiisir">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-Passionate Full-Stack Developer from Gazipur, Bangladesh 🇧🇩
+I'm a Full Stack Developer from **Bangladesh 🇧🇩** passionate about building modern, scalable, and production-ready web applications.
 
-I enjoy building modern web applications using React, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL.
-
-Currently focused on improving backend development skills and creating scalable, production-ready applications.
+- 🚀 Currently building Full Stack applications with **Next.js**
+- ⚡ Learning **Backend Architecture & System Design**
+- 🗄️ Working with **Prisma + PostgreSQL**
+- 💡 Interested in clean code, performance, and scalable APIs
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mongodb,git,github,vscode,postman&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📰 Prisma Press | Full Stack Blog Platform built with Next.js, Prisma & PostgreSQL |
+| 📌 DevPulse API | Issue Tracking REST API with JWT Authentication |
+| 💼 Portfolio | Personal Developer Portfolio |
+| 🔐 Auth System | Secure Authentication using JWT & Refresh Token |
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Next.js
+- Prisma ORM
+- Backend Architecture
+- Docker
+- System Design
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -62,7 +83,7 @@ Currently focused on improving backend development skills and creating scalable,
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -72,22 +93,67 @@ Currently focused on improving backend development skills and creating scalable,
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mehadishisir/mehadishisir/output/github-contribution-grid-snake-dark.svg" />
-  
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mehadishisir/mehadishisir/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
 ---
+
+# 💻 Tech Snapshot
 
 ```ts
 const mehadi = {
-  location: "Gazipur, Bangladesh",
-  role: "Full-Stack Developer",
-  frontend: ["React.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "PostgreSQL"],
-  learning: ["Next.js", "Backend Architecture"],
+  role: "Full Stack Developer",
+
+  location: "Bangladesh",
+
+  frontend: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Prisma"
+  ],
+
+  database: [
+    "PostgreSQL",
+    "MongoDB"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "VS Code"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "Docker",
+    "Backend Architecture"
+  ],
+
+  currentProject: "Prisma Press",
+
   goal: "Software Engineer 🚀"
 };
 ```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
