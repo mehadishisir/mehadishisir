@@ -40,20 +40,29 @@ I'm a Full Stack Developer from **Bangladesh 🇧🇩** passionate about buildin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mongodb,git,github,vscode,postman&theme=dark"/>
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
+
+<br/>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark"/>
+
+<br/>
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
+
+<br/>
+
+## 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📰 Prisma Press | Full Stack Blog Platform built with Next.js, Prisma & PostgreSQL |
-| 📌 DevPulse API | Issue Tracking REST API with JWT Authentication |
-| 💼 Portfolio | Personal Developer Portfolio |
-| 🔐 Auth System | Secure Authentication using JWT & Refresh Token |
 
 ---
 
@@ -132,8 +141,8 @@ const mehadi = {
   tools: [
     "Git",
     "GitHub",
-    "Postman",
-    "VS Code"
+    "VS Code",
+    "Postman"
   ],
 
   currentlyLearning: [
