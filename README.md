@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi 👋 I'm Mehadi Hasan Shisir
@@ -33,8 +32,9 @@ I'm a Full Stack Developer from **Bangladesh 🇧🇩** passionate about buildin
 
 - 🚀 Building full-stack applications using **Next.js and Node.js**
 - ⚡ Developing backend services and REST APIs
-- 🗄️ Working with **PostgreSQL, Prisma ORM, and MongoDB**
+- 🗄️ Working with **PostgreSQL, Prisma ORM, MongoDB, and Redis**
 - 🔐 Implementing authentication, authorization, and secure API workflows
+- 💳 Integrating payment gateways and third-party services
 - 🧩 Exploring scalable backend architecture and system design
 - 🎯 Goal: Become a Software Engineer
 
@@ -48,11 +48,40 @@ I enjoy learning new technologies, solving real-world problems, and turning idea
 
 ## 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  </a>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
-**Technologies & Libraries**
+**Frontend Technologies**
 
 HTML5 • CSS3 • JavaScript • TypeScript
 
@@ -62,21 +91,41 @@ React Hook Form • Zod • TanStack Query
 
 Zustand • Redux Form • Framer Motion
 
-<br/>
+---
 
 ## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<p>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" width="50"/>
+  </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://skillicons.dev/icons?i=prisma" width="50"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" width="50"/>
+  </a>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
+</p>
 
-**Technologies & Concepts**
+**Backend Technologies**
 
 Node.js • Express.js • TypeScript
 
 REST APIs • API Architecture
 
-JWT Authentication • OAuth
+JWT Authentication • OAuth / Google OAuth
 
 HTTP-only Cookies • Middleware
 
@@ -84,61 +133,120 @@ Input Validation • Data Sanitization
 
 Error Handling • Backend Architecture
 
-<br/>
+---
 
-## 🗄️ Database & ORM
+## 🗄️ Database, ORM & Cache
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark"/>
+<p>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+  </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://skillicons.dev/icons?i=prisma" width="50"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" width="50"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" width="50"/>
+  </a>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-**Technologies**
+**Database & Data Technologies**
 
-PostgreSQL • Prisma ORM
+PostgreSQL • Prisma ORM • MongoDB
 
-MongoDB • NeDB
+Redis • NeDB • Firebase
 
-Database Schema Design
+Database Schema Design • Relationships
 
-Relationships • Migrations
+Migrations • Query Optimization • Caching
 
-<br/>
+---
 
 ## 🔐 Authentication & Security
 
-JWT • Role-Based Access Control (RBAC)
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTP--Only_Cookies-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge"/>
+</p>
 
-HTTP-only Cookies • OAuth / Google OAuth
+JWT Authentication • Refresh Tokens
 
-Zod Validation • Input Sanitization
+Role-Based Access Control (RBAC)
 
-OTP & Password Reset Workflows
+OAuth / Google OAuth
 
-<br/>
+HTTP-only Cookies
 
-## 💳 Payments & Integrations
+OTP & Password Reset
+
+Input Validation & Sanitization
+
+Secure API Workflows
+
+---
+
+## 💳 Payment & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Webhooks-4B5563?style=for-the-badge"/>
+</p>
 
 Stripe API • bKash Payment Integration
 
 Payment Webhooks • Tokenized Checkout
 
-Firebase • REST API Integration
+Firebase • Third-party API Integration
 
-<br/>
+---
 
 ## 🧰 Tools & Developer Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark"/>
-
-<br/>
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+  </a>
+</p>
 
 Git • GitHub • VS Code • Postman
 
-Docker • Figma • Vercel
-
-<br/>
-
-</div>
+Docker • Vercel • Figma
 
 ---
 
@@ -147,13 +255,18 @@ Docker • Figma • Vercel
 - Full Stack Web Application Development
 - REST API Development & Integration
 - Authentication & Authorization
+- JWT & Refresh Token Workflows
+- Role-Based Access Control
 - Database Modeling & ORM
 - Form Handling & Validation
 - API State Management
 - Payment Gateway Integration
+- Payment Webhooks
+- Redis Caching & OTP Workflows
 - Backend Services & Architecture
 - Responsive UI Development
 - Git & Version Control
+- Deployment with Vercel
 
 ---
 
@@ -163,30 +276,31 @@ Docker • Figma • Vercel
 - Server & Client Components
 - Prisma ORM & Database Architecture
 - Backend Architecture
+- Redis & Caching Strategies
 - Docker & Containerization
 - System Design
-- Production-Oriented Development
 - Scalable API Design
+- Production-Oriented Development
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
 ### 🛒 GearUp — Full Stack Rental Platform
 
-A full-stack rental platform with role-based access and payment integration.
+A full-stack rental platform with role-based access, booking workflows, and payment integration.
 
 **Technologies:**
 
-Next.js • TypeScript • Node.js • Express
+Next.js • TypeScript • Node.js • Express.js
 
 PostgreSQL • Prisma • JWT • Stripe
 
 ---
 
-### 🐛 devPulse — Issue Tracking Platform
+### 🐛 devPulse — Backend & Issue Tracking Platform
 
-A backend-focused application for managing issues and developing structured API workflows.
+A backend-focused application for managing issues and building structured API workflows.
 
 **Technologies:**
 
@@ -202,27 +316,7 @@ A web application for exploring and managing adventure experiences.
 
 **Technologies:**
 
-React • Firebase • JavaScript
-
----
-
-### ⚽ Football Ticket Booking
-
-A football ticket booking application designed around ticket reservation workflows.
-
-**Technologies:**
-
-React • JavaScript • API Integration
-
----
-
-### 📚 Boi-Poka
-
-A web application project focused on book-related experiences.
-
-**Technologies:**
-
-React • Next.js • JavaScript
+React • JavaScript • Firebase
 
 ---
 
@@ -280,18 +374,22 @@ const mehadi = {
     "Tailwind CSS",
     "Shadcn UI",
     "React Hook Form",
+    "Zod",
     "TanStack Query",
     "Zustand",
+    "Redux Form",
     "Framer Motion"
   ],
 
   backend: [
     "Node.js",
     "Express.js",
+    "TypeScript",
     "REST APIs",
     "JWT",
     "OAuth",
-    "Zod",
+    "HTTP-only Cookies",
+    "Middleware",
     "API Architecture"
   ],
 
@@ -299,13 +397,16 @@ const mehadi = {
     "PostgreSQL",
     "Prisma ORM",
     "MongoDB",
-    "NeDB"
+    "Redis",
+    "NeDB",
+    "Firebase"
   ],
 
   integrations: [
     "Stripe",
     "bKash",
-    "Firebase"
+    "Firebase",
+    "Webhooks"
   ],
 
   tools: [
@@ -321,30 +422,10 @@ const mehadi = {
   currentlyLearning: [
     "Advanced Next.js",
     "Backend Architecture",
+    "Redis",
     "Docker",
     "System Design"
   ],
 
   goal: "Software Engineer 🚀"
 };
-```
-
----
-
-# 🤝 Let's Connect
-
-I'm interested in learning, building real-world applications, and connecting with developers and teams.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mehadishisir">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
