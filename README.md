@@ -1,10 +1,13 @@
+
 <div align="center">
 
 # Hi 👋 I'm Mehadi Hasan Shisir
 
-### Full Stack Developer • Next.js • Node.js • Prisma • PostgreSQL
+### Full Stack Developer • Next.js • Node.js • PostgreSQL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Full+Stack+Applications;Next.js+%7C+TypeScript+%7C+Node.js;Prisma+%7C+PostgreSQL+%7C+Express.js;Always+Learning+Something+New+🚀" />
+Building modern, scalable, and production-ready web applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+Node.js;REST+APIs+%7C+Prisma+%7C+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 <br/>
 
@@ -28,11 +31,14 @@
 
 I'm a Full Stack Developer from **Bangladesh 🇧🇩** passionate about building modern, scalable, and production-ready web applications.
 
-- 🚀 Currently building Full Stack applications with **Next.js**
-- ⚡ Learning **Backend Architecture & System Design**
-- 🗄️ Working with **Prisma + PostgreSQL**
-- 💡 Interested in clean code, performance, and scalable APIs
+- 🚀 Building full-stack applications using **Next.js and Node.js**
+- ⚡ Developing backend services and REST APIs
+- 🗄️ Working with **PostgreSQL, Prisma ORM, and MongoDB**
+- 🔐 Implementing authentication, authorization, and secure API workflows
+- 🧩 Exploring scalable backend architecture and system design
 - 🎯 Goal: Become a Software Engineer
+
+I enjoy learning new technologies, solving real-world problems, and turning ideas into functional applications.
 
 ---
 
@@ -40,39 +46,183 @@ I'm a Full Stack Developer from **Bangladesh 🇧🇩** passionate about buildin
 
 <div align="center">
 
-## 🎨 Frontend
+## 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
 
 <br/>
 
-## ⚙️ Backend
+**Technologies & Libraries**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark"/>
+HTML5 • CSS3 • JavaScript • TypeScript
+
+React • Next.js • Tailwind CSS • Shadcn UI
+
+React Hook Form • Zod • TanStack Query
+
+Zustand • Redux Form • Framer Motion
 
 <br/>
 
-## 🗄️ Database
+## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 <br/>
 
-## 🧰 Tools
+**Technologies & Concepts**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+Node.js • Express.js • TypeScript
+
+REST APIs • API Architecture
+
+JWT Authentication • OAuth
+
+HTTP-only Cookies • Middleware
+
+Input Validation • Data Sanitization
+
+Error Handling • Backend Architecture
+
+<br/>
+
+## 🗄️ Database & ORM
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark"/>
+
+<br/>
+
+**Technologies**
+
+PostgreSQL • Prisma ORM
+
+MongoDB • NeDB
+
+Database Schema Design
+
+Relationships • Migrations
+
+<br/>
+
+## 🔐 Authentication & Security
+
+JWT • Role-Based Access Control (RBAC)
+
+HTTP-only Cookies • OAuth / Google OAuth
+
+Zod Validation • Input Sanitization
+
+OTP & Password Reset Workflows
+
+<br/>
+
+## 💳 Payments & Integrations
+
+Stripe API • bKash Payment Integration
+
+Payment Webhooks • Tokenized Checkout
+
+Firebase • REST API Integration
+
+<br/>
+
+## 🧰 Tools & Developer Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark"/>
+
+<br/>
+
+Git • GitHub • VS Code • Postman
+
+Docker • Figma • Vercel
+
+<br/>
 
 </div>
 
 ---
 
+# 🚀 Development Experience
+
+- Full Stack Web Application Development
+- REST API Development & Integration
+- Authentication & Authorization
+- Database Modeling & ORM
+- Form Handling & Validation
+- API State Management
+- Payment Gateway Integration
+- Backend Services & Architecture
+- Responsive UI Development
+- Git & Version Control
+
+---
+
 # 🌱 Currently Learning
 
-- Advanced Next.js
-- Prisma ORM
+- Advanced Next.js App Router
+- Server & Client Components
+- Prisma ORM & Database Architecture
 - Backend Architecture
-- Docker
+- Docker & Containerization
 - System Design
+- Production-Oriented Development
+- Scalable API Design
+
+---
+
+# 📂 Projects
+
+### 🛒 GearUp — Full Stack Rental Platform
+
+A full-stack rental platform with role-based access and payment integration.
+
+**Technologies:**
+
+Next.js • TypeScript • Node.js • Express
+
+PostgreSQL • Prisma • JWT • Stripe
+
+---
+
+### 🐛 devPulse — Issue Tracking Platform
+
+A backend-focused application for managing issues and developing structured API workflows.
+
+**Technologies:**
+
+Node.js • Express.js • TypeScript
+
+PostgreSQL • Prisma • REST APIs
+
+---
+
+### 🌿 Eco Adventure Experiences
+
+A web application for exploring and managing adventure experiences.
+
+**Technologies:**
+
+React • Firebase • JavaScript
+
+---
+
+### ⚽ Football Ticket Booking
+
+A football ticket booking application designed around ticket reservation workflows.
+
+**Technologies:**
+
+React • JavaScript • API Integration
+
+---
+
+### 📚 Boi-Poka
+
+A web application project focused on book-related experiences.
+
+**Technologies:**
+
+React • Next.js • JavaScript
 
 ---
 
@@ -112,7 +262,7 @@ I'm a Full Stack Developer from **Bangladesh 🇧🇩** passionate about buildin
 
 ---
 
-# 💻 Tech Snapshot
+# 💻 Developer Snapshot
 
 ```ts
 const mehadi = {
@@ -121,37 +271,59 @@ const mehadi = {
   location: "Bangladesh",
 
   frontend: [
-    "Next.js",
-    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
     "TypeScript",
-    "Tailwind CSS"
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Shadcn UI",
+    "React Hook Form",
+    "TanStack Query",
+    "Zustand",
+    "Framer Motion"
   ],
 
   backend: [
     "Node.js",
     "Express.js",
-    "Prisma"
+    "REST APIs",
+    "JWT",
+    "OAuth",
+    "Zod",
+    "API Architecture"
   ],
 
   database: [
     "PostgreSQL",
-    "MongoDB"
+    "Prisma ORM",
+    "MongoDB",
+    "NeDB"
+  ],
+
+  integrations: [
+    "Stripe",
+    "bKash",
+    "Firebase"
   ],
 
   tools: [
     "Git",
     "GitHub",
     "VS Code",
-    "Postman"
+    "Postman",
+    "Docker",
+    "Vercel",
+    "Figma"
   ],
 
   currentlyLearning: [
-    "System Design",
+    "Advanced Next.js",
+    "Backend Architecture",
     "Docker",
-    "Backend Architecture"
+    "System Design"
   ],
-
-  currentProject: "Prisma Press",
 
   goal: "Software Engineer 🚀"
 };
@@ -159,9 +331,19 @@ const mehadi = {
 
 ---
 
+# 🤝 Let's Connect
+
+I'm interested in learning, building real-world applications, and connecting with developers and teams.
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="https://www.linkedin.com/in/mehadishisir">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
