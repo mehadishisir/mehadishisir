@@ -2,14 +2,11 @@
 
 # Mehadi Hasan Shisir
 
-**Full Stack Developer** · Next.js · Node.js · PostgreSQL
-
-Building reliable, scalable web applications with clean APIs and thoughtful architecture.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+clean+APIs+and+scalable+web+apps" alt="Typing animation" />
 
 [LinkedIn](https://www.linkedin.com/in/mehadishisir) · [GitHub](https://github.com/mehadishisir) · [Facebook](https://www.facebook.com/mehadishiisir)
 
 </div>
-
 ---
 
 ## About
