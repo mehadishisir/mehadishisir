@@ -15,12 +15,21 @@ I'm a full-stack developer from Bangladesh. I build web applications end to end:
 
 ## Tech Stack
 
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
-| **Database** | PostgreSQL, Prisma, MongoDB, Redis |
-| **Tools** | Git, GitHub, Docker, Postman, Vercel, Figma, Firebase |
+<div align="center">
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
+
+**Database**<br>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,firebase" alt="Database technologies" />
+
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma" alt="Developer tools" />
+
+</div>
 
 ## Featured Projects
 
