@@ -1,12 +1,10 @@
- <div align="center">
+<div align="center">
 
-# Hi, I'm Mehadi Hasan Shisir 👋
+# Mehadi Hasan Shisir
 
-### Full Stack Developer | Next.js · Node.js · PostgreSQL
+**Full Stack Developer** · Next.js · Node.js · PostgreSQL
 
-Building modern, reliable, and scalable web applications.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+with+Next.js+%26+TypeScript;Backend+APIs+%7C+PostgreSQL+%7C+Prisma;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+Building reliable, scalable web applications with clean APIs and thoughtful architecture.
 
 [LinkedIn](https://www.linkedin.com/in/mehadishisir) · [GitHub](https://github.com/mehadishisir) · [Facebook](https://www.facebook.com/mehadishiisir)
 
@@ -14,80 +12,48 @@ Building modern, reliable, and scalable web applications.
 
 ---
 
-## About Me
+## About
 
-I'm a Full Stack Developer from Bangladesh 🇧🇩 who enjoys building practical web applications and reliable backend systems.
-
-- 🚀 Building full-stack applications with Next.js and Node.js
-- ⚙️ Developing REST APIs and authentication systems
-- 🗄️ Working with PostgreSQL, Prisma, MongoDB, and Redis
-- 💳 Exploring payment integrations and backend architecture
-- 🎯 Working toward becoming a skilled Software Engineer
+I'm a full-stack developer from Bangladesh. I build web applications end to end: from database design and REST APIs to responsive, type-safe frontends. I'm currently focused on authentication, role-based access control, and payment workflows, and I'm looking for junior full-stack developer opportunities.
 
 ## Tech Stack
 
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,redis,firebase" alt="Backend and database technologies" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma" alt="Developer tools" />
-
-</div>
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Database** | PostgreSQL, Prisma, MongoDB, Redis |
+| **Tools** | Git, GitHub, Docker, Postman, Vercel, Figma, Firebase |
 
 ## Featured Projects
 
-### 🚑 AmbuLink — Emergency Ambulance Dispatch System
-
-A full-stack application designed to connect patients, ambulance drivers, and administrators.
-
-**Tech:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma
-
+### AmbuLink: Emergency Ambulance Dispatch System
+A full-stack platform that connects patients, ambulance drivers, and administrators for faster emergency response.
+**Stack:** Next.js, TypeScript, Node.js, PostgreSQL, Prisma
 [Live Demo](https://ambu-link-emergency-ambulance-dispa-ashy.vercel.app) · [Backend API](https://ambulink-nine.vercel.app/api)
 
-### 🛒 GearUp — Rental Platform
+### GearUp: Rental Platform
+A gear rental platform with booking workflows, role-based access control, and Stripe payment integration.
+**Stack:** Next.js, TypeScript, Express.js, PostgreSQL, Prisma, Stripe
 
-A rental platform featuring booking workflows, role-based access, and payment integration.
+### devPulse: Issue Tracking Backend
+A backend service for issue management with structured, well-organized REST API workflows.
+**Stack:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma
 
-**Tech:** Next.js · TypeScript · Express.js · PostgreSQL · Prisma · Stripe
+### Eco Adventure Experiences
+A web application for exploring and discovering adventure experiences.
+**Stack:** React, JavaScript, Firebase
 
-### 🐛 devPulse — Issue Tracking Backend
-
-A backend-focused application for issue management and structured REST API workflows.
-
-**Tech:** Node.js · Express.js · TypeScript · PostgreSQL · Prisma
-
-### 🌿 Eco Adventure Experiences
-
-A web application for exploring adventure experiences.
-
-**Tech:** React · JavaScript · Firebase
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mehadishisir&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadishisir&layout=compact&hide_border=true" alt="Top languages" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehadishisir&hide_border=true&area=true" alt="GitHub contribution activity" />
-
 </div>
 
----
+## Connect
 
-<div align="center">
-
-### 💻 Always Learning. Always Building.
-
-*Turning ideas into useful software, one project at a time.* 🚀
-
-</div>
+I'm open to junior full-stack developer roles and collaboration.
+Reach me on [LinkedIn](https://www.linkedin.com/in/mehadishisir).
